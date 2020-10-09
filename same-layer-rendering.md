@@ -291,8 +291,8 @@ closeblur(e) {
 
 对于`canvas`组件“踩坑”问题，作者之前写过两篇文章，这里不再赘述。
 
-+ [小程序Canvas实践指南—教你如何轻松避坑](http://km.oa.com/group/36667/articles/show/437014)
-+ [小程序直播-疯狂点赞canvas动画实现原理解析](http://km.oa.com/articles/show/468146)
++ [小程序Canvas实践指南—教你如何轻松避坑](https://juejin.im/post/6867403441174642696)
++ [小程序直播-疯狂点赞canvas动画实现原理解析](https://juejin.im/post/6859702071906533383)
 
 # 5 总结
 
