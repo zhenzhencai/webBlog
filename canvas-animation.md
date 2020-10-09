@@ -12,7 +12,7 @@
 
 我们先来看点赞效果图：
 
-![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/a0fa36a1849e4fecba6701ac28096130~tplv-k3u1fbpfcp-zoom-1.image)
+![](static/animation-demo.gif)
 
 从效果图上我们还看到有几点重要信息：
 
@@ -385,7 +385,7 @@ canvas 动画中常使用**贝塞尔曲线**来平滑路径，本次动画应用
 ### 1.7 旧版本的动画效果图
 
 此动画已经迭代了三个版本，此处附上旧版本的动画效果图。
-![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f8fc4731ad484001bd897ff6ea0a2425~tplv-k3u1fbpfcp-zoom-1.image)
+![](static/old-animation.gif)
 
 ### 最后
 
